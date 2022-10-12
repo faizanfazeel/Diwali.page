@@ -1,0 +1,50 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.background-top-section{
+background-image: url("https://img.freepik.com/premium-vector/diwali-deepavali-dipavali-festival-lights-india-with-gold-diya-patterned-crystals-paper-color-background_38689-1477.jpg?w=2000");
+background-size: cover;
+height: 30vh;
+}
+.top-section-heading{
+    color: white;
+    font-family: "caveat";
+    font-size: 36px;
+width: 200px;
+padding: 20px;
+}
+.bottom-section{
+    background-color: gainsboro;
+    padding: 20px;
+    text-align: center;
+}
+.card-item{
+    background-color: white;
+    width: 150px;
+    border-radius: 10px;
+text-align: center;
+padding: 14px;
+margin: 20px;
+
+}
+.card-image{
+    width: 64px;
+    height: 64px;
+}
+.card-heading{
+    font-size: 15px;
+    color: #616a76;
+    font-family: "Roboto";
+    padding: 8px;
+}
+.card-price{
+    color: #323f45;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 16px;
+
+}
+
+
+
+
+
